@@ -1,5 +1,6 @@
 # adotaPet
-website para resgate e adoção de animais
+![Logo](adotaPet.png)
+### Website para resgate e adoção de animais
 
 # Tutorial
  1. Clonar o projeto
