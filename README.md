@@ -15,7 +15,7 @@ exit;
 ```
 4. Fazer import do banco de dados
 ```bash
-mysql -u seu_nome_de_usuario -p adocao_site < data-dump.sql
+mysql -u seu_nome_de_usuario -p adocao_site < adocao-site.sql
 ```
 5. Adicionar sua senha do mysql ao arquivo server.js
 6. Entrar no diretório
